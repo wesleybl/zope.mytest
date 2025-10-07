@@ -105,7 +105,7 @@ For local development:
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/wesleybl/zope.mytest.git
 cd zope.mytest
 
 # Quick setup with Makefile
@@ -194,7 +194,7 @@ This repository specifically demonstrates this Pylance bug:
 
 ## Quick Start
 
-1. Clone the repository
+1. Clone the repository: `git clone https://github.com/wesleybl/zope.mytest.git`
 2. Run `make install-dev` to set up the development environment
 3. Run `make example` to see the package in action
 4. Run `make test` to verify everything works

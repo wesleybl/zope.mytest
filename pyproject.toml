@@ -9,7 +9,7 @@ description = "A test package using zope.interface"
 readme = "README.md"
 requires-python = ">=3.7"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Wesley Barroso Lopes", email = "wesleybl@gmail.com"},
 ]
 dependencies = [
     "zope.interface",
@@ -27,8 +27,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/zope.mytest"
-Repository = "https://github.com/yourusername/zope.mytest.git"
+Homepage = "https://github.com/wesleybl/zope.mytest"
+Repository = "https://github.com/wesleybl/zope.mytest.git"
 
 [tool.setuptools.packages.find]
 where = ["src"]
